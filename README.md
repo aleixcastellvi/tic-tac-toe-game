@@ -26,7 +26,7 @@ $ virtualenv venv
 $ source venv/bin/activate
 ```
 
-## Execute task
+## Execute project
 
 ```
 $ python3 main.py

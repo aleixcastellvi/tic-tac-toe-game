@@ -15,7 +15,7 @@ Follow the instructions below to run the code and... GOOD LUCK!!!
 
 ### Get code
 
-A zip file with the code is attached. It must be saved and unzipped in the desired path
+A zip file with the code is attached. It must be saved and unzipped in the working path with the desired name (for example: tic-tac-toe)
 
 ### Create a virtualenv for the project
 
@@ -24,7 +24,6 @@ $ pip install virtualenv
 $ cd tic-tac-toe
 $ virtualenv venv
 $ source venv/bin/activate
-$ pip install -r requirements.txt
 ```
 
 ## Execute task

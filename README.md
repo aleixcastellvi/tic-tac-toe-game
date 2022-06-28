@@ -1,4 +1,4 @@
-# TIC-TAC-TOE (3 EN LÍNEA)
+# TIC-TAC-TOE GAME IN PYTHON (3 EN LÍNEA)
 
 ## Description
 

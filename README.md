@@ -2,7 +2,7 @@
 
 ## Description
 
-Hello World! In this repository you will find the Python code to generate the game tic tac toe (3 en línea). The game has been designed to be played with 2 players and at the beginning of the game the machine randomly decides who plays first.
+Hello World! In this repository you will find the python code to generate the game tic tac toe (3 en línea). The game has been designed to be played with 2 players and at the beginning of the game the machine randomly decides who plays first.
 
 Follow the instructions below to run the code and... GOOD LUCK!!!
 
